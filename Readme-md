@@ -1,0 +1,84 @@
+# SmartWalletBackend
+
+API REST desarrollada en **.NET (C#)** como parte de un proyecto colaborativo para la gestión de una billetera digital.
+
+Este repositorio es un **fork del proyecto original**, adaptado para mi portfolio profesional con fines demostrativos.
+
+---
+
+## 👥 Proyecto colaborativo
+
+Proyecto desarrollado en conjunto con:
+- @m4lcom
+- @JulianBison
+
+Mi aporte principal incluyó:
+- Desarrollo de endpoints REST
+- Modelado de entidades y relaciones
+- Implementación de lógica de negocio
+- Integración de controladores y servicios
+
+Repositorio original:
+https://github.com/m4lcom/SmartWalletBackend
+
+---
+
+## 🚀 Tecnologías utilizadas
+
+- .NET / ASP.NET Core
+- C#
+- Entity Framework Core
+- Autenticación JWT
+- Base de datos relacional
+- Git y GitHub
+
+---
+
+## 📁 Estructura del proyecto
+
+```
+SmartWalletBackend/
+├── Controllers/
+├── Models/
+├── Services/
+├── DTOs/
+├── Program.cs
+└── appsettings.json
+```
+
+---
+
+## ▶️ Cómo ejecutar el proyecto
+
+### Requisitos
+- .NET 6 SDK o superior
+- Visual Studio o Visual Studio Code
+
+### Pasos para ejecución local
+
+```bash
+git clone https://github.com/Eze-Nat/SmartWalletBackend.git
+cd SmartWalletBackend
+dotnet restore
+dotnet run
+```
+
+Antes de ejecutar, configurar la cadena de conexión correspondiente en el archivo `appsettings.json`.
+
+---
+
+## 📌 Qué aprendí y reforcé en este proyecto
+
+- Diseño y desarrollo de APIs REST con .NET
+- Uso de Entity Framework Core y manejo de entidades
+- Implementación de autenticación y autorización con JWT
+- Organización de un backend con separación de responsabilidades
+- Trabajo colaborativo utilizando Git y GitHub
+
+---
+
+## 📝 Nota final
+
+Este proyecto forma parte de mi proceso de aprendizaje y consolidación de conocimientos como desarrollador .NET, y se utiliza como ejemplo práctico dentro de mi portfolio profesional.
+                      
+                                 
